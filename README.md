@@ -1,4 +1,4 @@
-# **PRIVACY POLICY (DISCORD BOT)**
+# **Privacy Policy (DISCORD BOT)**
 
 WHAT END USER DATA DO WE STORE?
 We do not store any personally identifiable data.
